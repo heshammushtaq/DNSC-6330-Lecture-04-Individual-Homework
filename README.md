@@ -56,7 +56,7 @@ Then run all cells. The notebook is **deterministic** given the random seed of `
 
 ---
 
-## Interpretation of Results (Concise)
+## Interpretation of Results
 
 ### Part A — Distribution Drift
 
